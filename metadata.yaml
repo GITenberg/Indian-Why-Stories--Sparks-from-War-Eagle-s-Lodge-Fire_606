@@ -1,0 +1,41 @@
+_repo: Indian-Why-Stories--Sparks-from-War-Eagle-s-Lodge-Fire_606
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Linderman, Frank Bird
+    alias: Co-skee-see-co-cot
+    birthdate: 1869
+    deathdate: 1938
+    gutenberg_agent_id: '318'
+    url: http://www.gutenberg.org/2009/agents/318
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Bird_Linderman
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '1996-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Ojibwa Indians -- Folklore'
+- !lcsh 'Cree Indians -- Folklore'
+- !lcsh 'Siksika Indians -- Folklore'
+- !lcsh 'Tales -- Montana'
+- !lcsh 'Indian mythology -- Montana'
+- GITenberg
+tableOfContents: Why the chipmunk's back is striped -- How the ducks got their fine
+  feathers -- Why the kingfisher always wears a war-bonnet -- Why the curlew's bill
+  is long and crooked -- Old-man remakes the world -- Why Blackfeet never kill mice
+  -- How the otter skin became great "medicine" -- Old-man steals the sun's leggings
+  -- Old-man and his conscience -- Old-man's treachery -- Why the night-hawk's wings
+  are beautiful -- Why the mountain-lion is long and lean -- The fire-leggings --
+  The moon and the great snake -- Why the deer has no gall -- Why Indians whip the
+  buffalo-berries from the bushes -- Old-man and the fox -- Why the birch-tree wears
+  the slashes in its bark -- Mistakes of Old-man -- How the man found his mate --
+  Dreams -- Retrospection.
+title: 'Indian Why Stories: Sparks from War Eagle''s Lodge-Fire'
+url: http://www.gutenberg.org/ebooks/606
